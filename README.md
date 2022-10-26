@@ -11,7 +11,7 @@ metode bolzano hanya dapat dijalankan ketika perkalian kedua rentang dari solusi
 disini kami menggunakan library numpy(untuk menggenerate angka), pandas(untuk membuat tabel), dan matplotlib (untuk menggambar perkiraan grafik).
 
 berikut merupakan kode untuk perhitungan metode bolzano
-
+```python
     print("rentang perkiraan letak solusi persamaan ")
     Xa = float(input("rentang awal : "))
     Xb = float(input("rentang akhir: "))
@@ -40,3 +40,4 @@ berikut merupakan kode untuk perhitungan metode bolzano
         print(f"\nMaka akar persamaan yang diperoleh adalah {Xc}\n")#print nilai x setelah n iterasi
     else:
         print("Tidak memenuhi syarat metode bolzano")
+```
