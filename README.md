@@ -70,6 +70,6 @@ dengan Xa = -5, Xb = 0, dan hingga 20 iterasi diperoleh output sebagai berikut:
 
 **maka diperoleh akar dari persamaan x^2 + x - 5 pada rentang -5 hingga 0 hingga 20 iterasi adalah -2.791285514831543**
 
-kemudian digunakan Xawal = -20 dan Xakhir = 20, sehingga diperoleh grafik sebagai berikut:
+kemudian digunakan rentang Xawal = -20 dan Xakhir = 20 pada tampilan gefik, sehingga diperoleh grafik sebagai berikut:
 ![image](https://user-images.githubusercontent.com/92217730/198017224-76c36e60-4fea-452e-9060-72f3f5eb7cdc.png)
 
