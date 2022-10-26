@@ -55,3 +55,10 @@ berikut kode untuk menampilkan grafik:
     plt.plot(x, y)#melakukan plotting terhadap tiap nilai x dan y
     plt.show()#menampilkan grafik
 ```
+misal digunakan fungsi
+```python
+    def f(x):
+        return x**2+x-5
+```
+dengan Xa = -5, Xb = 0, dan hingga 20 iterasi diperoleh output sebagai berikut:
+![image](https://user-images.githubusercontent.com/92217730/198016167-4daa734f-a594-4cf2-b6e6-c38db452b181.png)
