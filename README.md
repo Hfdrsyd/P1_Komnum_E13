@@ -4,6 +4,9 @@ kelompok 13:
 1. Muhammad Hafidh Rosyadi – 5025211013 
 2. Heru Dwi Kurniawan – 5025211055 
 3. Mohammad Ahnaf Fauzan – 5025211170
+**praktikum 1**
+**implementasi metode bolzano menggunakan program komputer, dengan menampilkan proses iteratif numerik, dan grafik fungsinya**
+
 
 metode bolzano merupakan metode pencarian akar persamaan dengan membandingkan nilai tengah dari suatu rentang solusi dengan rentang solusi tersebut, dengan tujuan mendekat kan hasil ke arah 0. 
 Selain itu pembandingan tersebut dilakukan hingga mencapai suatu ketelitian tertentu.
