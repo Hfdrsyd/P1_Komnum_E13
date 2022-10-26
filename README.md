@@ -61,4 +61,8 @@ misal digunakan fungsi
         return x**2+x-5
 ```
 dengan Xa = -5, Xb = 0, dan hingga 20 iterasi diperoleh output sebagai berikut:
-![image](https://user-images.githubusercontent.com/92217730/198016167-4daa734f-a594-4cf2-b6e6-c38db452b181.png)
+![image](https://user-images.githubusercontent.com/92217730/198016406-b66968c0-77d5-4413-8e37-5c8ddecbbc75.png)
+
+kemudian digunakan Xawal = -20 dan Xakhir = 20, sehingga diperoleh grafik sebagai berikut:
+![image](https://user-images.githubusercontent.com/92217730/198017224-76c36e60-4fea-452e-9060-72f3f5eb7cdc.png)
+
