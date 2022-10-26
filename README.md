@@ -7,6 +7,8 @@ kelompok 13:
 
 
 **praktikum 1**
+
+
 **implementasi metode bolzano menggunakan program komputer, dengan menampilkan proses iteratif numerik, dan grafik fungsinya**
 
 
