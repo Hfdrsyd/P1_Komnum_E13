@@ -64,7 +64,8 @@ misal digunakan fungsi
         return x**2+x-5
 ```
 dengan Xa = -5, Xb = 0, dan hingga 20 iterasi diperoleh output sebagai berikut:
-![image](https://user-images.githubusercontent.com/92217730/198016406-b66968c0-77d5-4413-8e37-5c8ddecbbc75.png)
+![image](https://user-images.githubusercontent.com/92217730/198019124-c7078d6a-3d4d-4ba3-8d1b-1288c2dafe82.png)
+
 
 
 **maka diperoleh akar dari persamaan x^2 + x - 5 pada rentang -5 hingga 0 hingga 20 iterasi adalah -2.791285514831543**
