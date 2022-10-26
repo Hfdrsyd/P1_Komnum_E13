@@ -57,8 +57,6 @@ berikut kode untuk menampilkan grafik:
     x = np.arange(Xawal, Xakhir, 0.01)#meng-generate titik x dengan batas Xawal hingga Xakhir dengan ketelitian 0.01
     y = f(x)#melakukan perhitungan nilai y pada setiap titik x
     plt.grid()#memberi grid pada grafik sehingga memudahkan membaca
-    plt.xlabel("X")
-    plt.ylabel("Y")
     plt.plot(x, y)#melakukan plotting terhadap tiap nilai x dan y
     plt.show()#menampilkan grafik
 ```
@@ -76,5 +74,4 @@ dengan Xa = -5, Xb = 0, dan hingga 20 iterasi diperoleh output sebagai berikut:
 
 kemudian digunakan rentang Xawal = -20 dan Xakhir = 20 pada tampilan gefik, sehingga diperoleh grafik sebagai berikut:
 
-![image](https://user-images.githubusercontent.com/92217730/198017224-76c36e60-4fea-452e-9060-72f3f5eb7cdc.png)
-
+![image](https://user-images.githubusercontent.com/92217730/198034270-3340cc40-99b7-4b75-a2c2-2d13a3e1e638.png)
