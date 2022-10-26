@@ -41,3 +41,17 @@ berikut merupakan kode untuk perhitungan metode bolzano
     else:
         print("Tidak memenuhi syarat metode bolzano")
 ```
+selanjutnya untuk menampilkan grafik dilakukan dengan library matplotlib, yaitu menampilkan grafik menggunakan titik - titik dari suatu fungsi yang dihubungkan dengan garis.
+berikut kode untuk menampilkan grafik:
+```python
+    print("rentang grafik yang akan ditampilkan : ")
+    Xawal = float(input("X awal : "))
+    Xakhir = float(input("X akhir : "))
+    x = np.arange(Xawal, Xakhir, 0.01)#meng-generate titik x dengan batas Xawal hingga Xakhir dengan ketelitian 0.01
+    y = f(x)#melakukan perhitungan nilai y pada setiap titik x
+    plt.grid()#memberi grid pada grafik sehingga memudahkan membaca
+    plt.xlabel("X")
+    plt.ylabel("Y")
+    plt.plot(x, y)#melakukan plotting terhadap tiap nilai x dan y
+    plt.show()#menampilkan grafik
+```
