@@ -36,7 +36,7 @@ berikut merupakan kode untuk perhitungan metode bolzano
         #memasukkan data list ke dalam tabel dengan bantuan library pandas
         Table = pd.DataFrame(ArrTable, columns=['Xa', 'Xb', 'Xc', 'Fa', 'Fb', 'Fc'])
         Table.index = np.arange(1, len(Table)+1)#melakukan generating index pada tabel 
-        print(Table)#print terhadap tabel yang telah buatu
+        print(Table)#print terhadap tabel yang telah buat
         print(f"\nMaka akar persamaan yang diperoleh adalah {Xc}\n")#print nilai x setelah n iterasi
     else:
         print("Tidak memenuhi syarat metode bolzano")
